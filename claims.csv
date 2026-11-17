@@ -1,0 +1,4 @@
+claim_id,member_id,provider_id,provider_name,service_code,service_name,paid_amount
+C1,M1,P1,North Clinic,S1,Consult,100
+C2,M2,P1,North Clinic,S2,Lab,55
+C3,M3,P2,South Clinic,S1,Consult,120
